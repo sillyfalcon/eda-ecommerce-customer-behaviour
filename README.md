@@ -12,7 +12,7 @@ In this notebook we will perform the exploratory data analysis for a multicatego
 - Pre-process or prepare the data for analysis
 - Transform the data into various summary views
 
-Let us call this anonymised datset Shrinkme. We will use our framework to ask and answer interesting questions, create visualisations for the following areas of interest:
+Let us call this anonymised dataset Shrinkme. We will use our framework to ask and answer interesting questions, create visualisations for the following areas of interest:
 
 - Pattern of visits by day , day of week or hour of day
 - View and purchase patterns for products and categories
