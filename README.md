@@ -25,5 +25,5 @@ In this analysis we will use the "eCommerce behavior data from multi category st
 The Kaggle dataset has two .csv files
 - 2019-Nov.csv 8.4 GB and 67.5 million records  
 - 2019-Oct.csv 5.3GB and 42.4 million records  
-
 We will build the framework with and perform the analysis on the 2019-Oct.csv file.
+Kaggle_url : https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
